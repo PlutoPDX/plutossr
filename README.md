@@ -1,2 +1,0 @@
-# plutossr
-Plutossr.com
